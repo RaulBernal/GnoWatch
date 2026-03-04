@@ -1,4 +1,4 @@
-# Gno.Land Check Signers
+# GnoWatch: a validator signing  tool
 Active monitoring asking last blockchain block for signed/commited blocks.
 
 > One pic.... 
